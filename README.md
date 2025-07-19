@@ -1,17 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Shahadat Siddikee Shawon </h1>
-<h3 align="center">A passionate Learner of competitive programming , Search engine optimization,
-  
-  Unreal Engine 5 & DaVinci Resolve Studio . </h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon0c&label=Profile%20views&color=0e75b6&style=flat" alt="shawon0c" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawon0c" alt="shawon0c" /></a> </p>
-
-- 🔭 I’m currently Studying in **Computer Science and Engineering (CSE)**
-
-- 🌱 I’m currently learning **DATA STRUCTURE & ALGORITHM**
 
 <h1 align="center">Hi 👋, I'm Shahadat Siddikee Shawon</h1>
 <h3 align="center">React | MERN Stack Developer | Competitive Programmer | SEO Enthusiast | Unreal Engine & DaVinci Resolve Learner</h3>
