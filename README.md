@@ -1,142 +1,94 @@
-
-
-<h1 align="center">Hi 👋, I'm Shahadat Siddikee Shawon</h1>
-<h3 align="center">React | MERN Stack Developer | Competitive Programmer | SEO Enthusiast | Unreal Engine & DaVinci Resolve Learner</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shawon0c&label=Profile%20views&color=0e75b6&style=flat" alt="shawon0c" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shawon0c&theme=gruvbox" alt="shawon0c" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Fahad</h1>
+<h3 align="center">Backend Developer | System Designer | DevOps Expert</h3>
 
 ---
 
-### 🔥 About Me
+### 📬 Contact Me
 
-- 🎓 Currently studying **Computer Science and Engineering (CSE)**
-- 🚀 Passionate about building Full Stack Web Applications using **React**, **Node.js**, **MongoDB**, and **Express.js**
-- 📚 Improving my problem-solving skills through **Data Structures & Algorithms**
-- 💬 Ask me about **React, JavaScript, or DSA**
-- 🎯 Also exploring **SEO**, **Unreal Engine 5**, and **DaVinci Resolve Studio**
-- ⚡ Fun fact: *I'm the person you'll never get bored talking to!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1fahadhossain/)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/1fahadhossain)
+[![Dev.to](https://img.shields.io/badge/Dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fahadhossain24)
+[![Email](https://img.shields.io/badge/My-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadhossain0503@gmail.com)
 
 ---
 
-### 🌐 Connect with Me
+### 🧑‍💻 About Me
 
+- 🔭 Currently working at **Spark Tech Agency** as a **Backend Developer**
+- 🚀 Passionate about **real-time systems**, **modular architecture**, and **DevOps automation**
+- 🧠 Exploring deeper in **system design**, **scalability**, and **performance driven architechture**
+- 🔌 Skilled in seamless **third-party service integrations**, ensuring reliability and smooth interoperability
+- 🛡️ Committed to writing **secure** with a strong focus on **best practices** in authentication, authorization, and data protection
+- 👨‍💻 Love contributing to open-source and building tools that solve real-world problems
+
+---
+
+### 🚀 Tech Stack
+
+#### 🛠️ Core Technologies
 <p align="left">
-  <a href="https://linkedin.com/in/shahadat siddikee shawon" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/shawon.NDC17/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/shawon_oc" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="codechef" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/shawon_0c" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/cryp70n1c" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="codeforces" height="30" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> -->
+<!--   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/OAuth-2C3E50?style=for-the-badge&logo=oauth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-470137?style=flat&logo=adobe-xd&logoColor=white)
-
-#### 🛠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-#### 🎮 Game / Visual Tools
-![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=flat&logo=daVinci-resolve&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawon0c&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shawon0c&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawon0c&theme=github-dark" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧠 Current Learning Roadmap
-
-- ✅ Advanced React Patterns (Hooks, Context API, Redux Toolkit)
-- ✅ Building RESTful APIs with Node.js & Express
-- ✅ MongoDB Aggregation Framework
-- ✅ Competitive Programming Practice on Codeforces & Codechef
-- 🚧 Exploring Web Performance & SEO Fundamentals
-
----
-
-### ✍️ Recent Projects
-
-> *(You can update this section manually or use a GitHub action to pull latest pinned repos)*
-
-- 🖥️ **[Portfolio Website (React)](https://github.com/shawon0c/your-portfolio-link)**
-- 📦 **[MERN Stack Blog App](https://github.com/shawon0c/your-blog-link)**
-- 🎮 **[Unreal Engine Game Demo](https://github.com/shawon0c/your-unreal-link)**
-
----
-
-**📫 Reach me anytime at:**  
-📍 [Facebook](https://www.facebook.com/shawon.NDC17/)  
-🌐 [LinkedIn](https://linkedin.com/in/shahadat-siddikee-shawon)
-
----
-- 📫 How to reach me **https://www.facebook.com/shawon.NDC17/**
-
-- ⚡ Fun fact **I am the person with whom you never feel bored.**
-
-<h3 align="left">Connect with me:</h3>
+#### ⚡ Real-Time Infrastructure
 <p align="left">
-<a href="https://linkedin.com/in/shahadat siddikee shawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahadat siddikee shawon" height="30" width="40" /></a>
-<a href="https://fb.com/shahadat siddikee shawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahadat siddikee shawon" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shawon_oc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shawon_oc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shawon_0c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shawon_0c" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/cryp70n1c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cryp70n1c" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zego%20Cloud-1677FF?style=for-the-badge&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+#### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPS-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-20B2AA?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawon0c&show_icons=true&locale=en&layout=compact" alt="shawon0c" /></p>
+#### 🧪 Testing & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawon0c&show_icons=true&locale=en" alt="shawon0c" /></p>
+### 🔥 GitHub Contribution Graph
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawon0c&" alt="shawon0c" /></p>
+[![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahadhossain24&theme=dracula&area=true)](https://github.com/fahadhossain24)
 
+---
 
+### 📂 Featured Projects
 
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🧠 Multiplayer Quiz Game App](https://github.com/fahadhossain24/quiz-app-backend) | Real-time 1v1, friends, review mode quiz app with ELO rating syste, leaderboard, history, friends, recovery & admin dashboard | JavaScript, Node.js, Express, Mongoose, Socket.IO, JWT |
+| [🩺 Doctor Consulting System with appointment booking](https://github.com/fahadhossain24/therapist-consultation) | Video/audio consulting with wallet deduction, call tracking, and recordings | TypeScript, Node.js, Express, Socket.IO, ZegoCloud, PayPal, JWT, Firebase |
+| [💸 Join-Up: Track-activity Mission Hunting System](https://github.com/fahadhossain24/Joinup-tracActivity-server) | Volunteer management platform for non-profit organizations, community group with real time chatting, that streamlines event coordination and mission tracking | TypeScript, Node.js Express, Mongoose, JWT, SocketIO, Stripe |
 
+---
+
+### ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [10 Best Practices for Ensuring API Security](https://dev.to/fahadhossain24/10-best-practices-for-ensuring-api-security-2n6g)
+- [Understanding TypeScript's Type Inference](https://www.linkedin.com/pulse/understanding-typescripts-type-inference-fahad-hossain-gwmpc/?trackingId=uTL0%2BXHMi28R6d8oLqpsNw%3D%3D)
+- [The Beginner’s Guide to Secure Shell](https://dev.to/fahadhossain24/the-beginners-guide-to-secure-shell-l0p)
+<!-- BLOG-POST-LIST:END -->
