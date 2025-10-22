@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shawon</h1>
-<h3 align="center">Backend Developer | System Designer | DevOps Expert</h3>
+<h3 align="center">Full-Stack Developer | System Designer | DevOps Expert</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working at **Spark Tech Agency** as a **Backend Developer**
+- 🔭 Currently working at **Spark Tech Agency** as a **Full-Stack Developer**
 - 🚀 Passionate about **real-time systems**, **modular architecture**, and **DevOps automation**
 - 🧠 Exploring deeper in **system design**, **scalability**, and **performance driven architecture**
 - 🔌 Skilled in seamless **third-party service integrations**, ensuring reliability and smooth interoperability
