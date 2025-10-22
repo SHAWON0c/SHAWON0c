@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Fahad</h1>
+<h1 align="center">Hi 👋, I'm Shawon</h1>
 <h3 align="center">Backend Developer | System Designer | DevOps Expert</h3>
 
 ---
 
 ### 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1fahadhossain/)
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/1fahadhossain)
-[![Dev.to](https://img.shields.io/badge/Dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fahadhossain24)
-[![Email](https://img.shields.io/badge/My-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadhossain0503@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/your-facebook-username)
+[![Dev.to](https://img.shields.io/badge/Dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/SHAWON0C)
+[![Email](https://img.shields.io/badge/My-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
@@ -16,9 +16,9 @@
 
 - 🔭 Currently working at **Spark Tech Agency** as a **Backend Developer**
 - 🚀 Passionate about **real-time systems**, **modular architecture**, and **DevOps automation**
-- 🧠 Exploring deeper in **system design**, **scalability**, and **performance driven architechture**
+- 🧠 Exploring deeper in **system design**, **scalability**, and **performance driven architecture**
 - 🔌 Skilled in seamless **third-party service integrations**, ensuring reliability and smooth interoperability
-- 🛡️ Committed to writing **secure** with a strong focus on **best practices** in authentication, authorization, and data protection
+- 🛡️ Committed to writing **secure code** with a strong focus on **best practices** in authentication, authorization, and data protection
 - 👨‍💻 Love contributing to open-source and building tools that solve real-world problems
 
 ---
@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> -->
-<!--   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/OAuth-2C3E50?style=for-the-badge&logo=oauth&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
@@ -71,7 +69,7 @@
 
 ### 🔥 GitHub Contribution Graph
 
-[![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahadhossain24&theme=dracula&area=true)](https://github.com/SHAWON0C)
+[![Shawon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAWON0C&theme=dracula&area=true)](https://github.com/SHAWON0C)
 
 ---
 
@@ -79,16 +77,16 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🧠 Multiplayer Quiz Game App](https://github.com/fahadhossain24/quiz-app-backend) | Real-time 1v1, friends, review mode quiz app with ELO rating syste, leaderboard, history, friends, recovery & admin dashboard | JavaScript, Node.js, Express, Mongoose, Socket.IO, JWT |
-| [🩺 Doctor Consulting System with appointment booking](https://github.com/fahadhossain24/therapist-consultation) | Video/audio consulting with wallet deduction, call tracking, and recordings | TypeScript, Node.js, Express, Socket.IO, ZegoCloud, PayPal, JWT, Firebase |
-| [💸 Join-Up: Track-activity Mission Hunting System](https://github.com/fahadhossain24/Joinup-tracActivity-server) | Volunteer management platform for non-profit organizations, community group with real time chatting, that streamlines event coordination and mission tracking | TypeScript, Node.js Express, Mongoose, JWT, SocketIO, Stripe |
+| [🧠 Multiplayer Quiz Game App](https://github.com/SHAWON0C/quiz-app-backend) | Real-time 1v1, friends, review mode quiz app with ELO rating system, leaderboard, history, friends, recovery & admin dashboard | JavaScript, Node.js, Express, Mongoose, Socket.IO, JWT |
+| [🩺 Doctor Consulting System with appointment booking](https://github.com/SHAWON0C/therapist-consultation) | Video/audio consulting with wallet deduction, call tracking, and recordings | TypeScript, Node.js, Express, Socket.IO, ZegoCloud, PayPal, JWT, Firebase |
+| [💸 Join-Up: Track-activity Mission Hunting System](https://github.com/SHAWON0C/Joinup-tracActivity-server) | Volunteer management platform for non-profit organizations, community group with real time chatting, that streamlines event coordination and mission tracking | TypeScript, Node.js Express, Mongoose, JWT, SocketIO, Stripe |
 
 ---
 
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Practices for Ensuring API Security](https://dev.to/fahadhossain24/10-best-practices-for-ensuring-api-security-2n6g)
-- [Understanding TypeScript's Type Inference](https://www.linkedin.com/pulse/understanding-typescripts-type-inference-fahad-hossain-gwmpc/?trackingId=uTL0%2BXHMi28R6d8oLqpsNw%3D%3D)
-- [The Beginner’s Guide to Secure Shell](https://dev.to/fahadhossain24/the-beginners-guide-to-secure-shell-l0p)
+- [10 Best Practices for Ensuring API Security](https://dev.to/SHAWON0C/10-best-practices-for-ensuring-api-security-2n6g)
+- [Understanding TypeScript's Type Inference](https://www.linkedin.com/pulse/understanding-typescripts-type-inference-shawon/?trackingId=uTL0%2BXHMi28R6d8oLqpsNw%3D%3D)
+- [The Beginner’s Guide to Secure Shell](https://dev.to/SHAWON0C/the-beginners-guide-to-secure-shell-l0p)
 <!-- BLOG-POST-LIST:END -->
