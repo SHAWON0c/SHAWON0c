@@ -5,10 +5,10 @@
 
 ### 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/your-facebook-username)
-[![Dev.to](https://img.shields.io/badge/Dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/SHAWON0C)
-[![Email](https://img.shields.io/badge/My-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadat-siddikee-shawon/)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/shawon.NDC17)
+[![Dev.to](https://img.shields.io/badge/Dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shawon0c)
+[![Email](https://img.shields.io/badge/My-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devofficials.shawon@gmail.com)
 
 ---
 
@@ -69,7 +69,7 @@
 
 ---
 
-### 🧩 Frontend Frameworks & Libraries (Added)
+### 🧩 Frontend Frameworks & Libraries 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
@@ -81,7 +81,7 @@
 
 ---
 
-### 🧱 System Design & Architecture (Added)
+### 🧱 System Design & Architecture 
 - Designed **high-performance Node.js APIs** capable of handling thousands of concurrent connections  
 - Implemented **Redis caching** and **query optimization** to reduce latency by 40%  
 - Designed **multi-environment CI/CD pipelines** using GitHub Actions and Docker  
@@ -90,7 +90,7 @@
 
 ---
 
-### 📈 Career Highlights / Achievements (Added)
+### 📈 Career Highlights / Achievements 
 - ⚙️ Built and deployed **real-time video conferencing & chat systems** for multiple SaaS platforms  
 - 💰 Integrated **Stripe & PayPal payment systems** with custom wallet logic  
 - 🔐 Developed **JWT + OAuth2.0 authentication flows** across multiple microservices  
@@ -102,7 +102,7 @@
 
 ### 🔥 GitHub Contribution Graph
 
-[![Shawon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAWON0C&theme=dracula&area=true)](https://github.com/SHAWON0C)
+[![Shawon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAWON0C&theme=dracula&area=true)](https://github.com/SHAWON0c)
 
 ---
 
@@ -128,7 +128,7 @@
 
 ---
 
-### 🧰 Additional Tools & Platforms (Added)
+### 🧰 Additional Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
