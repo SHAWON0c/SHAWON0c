@@ -106,25 +106,7 @@
 
 ---
 
-### 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🧠 Multiplayer Quiz Game App](https://github.com/SHAWON0C/quiz-app-backend) | Real-time 1v1, friends, review mode quiz app with ELO rating system, leaderboard, history, friends, recovery & admin dashboard | JavaScript, Node.js, Express, Mongoose, Socket.IO, JWT |
-| [🩺 Doctor Consulting System with appointment booking](https://github.com/SHAWON0C/therapist-consultation) | Video/audio consulting with wallet deduction, call tracking, and recordings | TypeScript, Node.js, Express, Socket.IO, ZegoCloud, PayPal, JWT, Firebase |
-| [💸 Join-Up: Track-activity Mission Hunting System](https://github.com/SHAWON0C/Joinup-tracActivity-server) | Volunteer management platform for non-profit organizations, community group with real time chatting, that streamlines event coordination and mission tracking | TypeScript, Node.js Express, Mongoose, JWT, SocketIO, Stripe |
-
----
-
-### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [10 Best Practices for Ensuring API Security](https://dev.to/SHAWON0C/10-best-practices-for-ensuring-api-security-2n6g)
-- [Understanding TypeScript's Type Inference](https://www.linkedin.com/pulse/understanding-typescripts-type-inference-shawon/?trackingId=uTL0%2BXHMi28R6d8oLqpsNw%3D%3D)
-- [The Beginner’s Guide to Secure Shell](https://dev.to/SHAWON0C/the-beginners-guide-to-secure-shell-l0p)
-- [Designing Scalable Backends: Caching & Load Balancing Strategies](https://dev.to/SHAWON0C/designing-scalable-backends-caching-and-load-balancing-3h9)
-- [Deploying Next.js + Strapi Apps with CI/CD Pipelines](https://dev.to/SHAWON0C/deploying-nextjs-and-strapi-with-cicd-pipelines-5i7)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
