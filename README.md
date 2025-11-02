@@ -84,8 +84,7 @@
 ### 🧱 System Design & Architecture 
 - Designed **high-performance Node.js APIs** capable of handling thousands of concurrent connections  
 - Implemented **Redis caching** and **query optimization** to reduce latency by 40%  
-- Designed **multi-environment CI/CD pipelines** using GitHub Actions and Docker  
-- Structured **microservices** with **event-driven communication** using Redis pub/sub  
+- Designed **multi-environment CI/CD pipelines** using GitHub Actions and Docker   
 - Experienced in **load balancing**, **rate limiting**, and **zero-downtime deployment**
 
 -
