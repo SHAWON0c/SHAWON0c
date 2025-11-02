@@ -88,15 +88,7 @@
 - Structured **microservices** with **event-driven communication** using Redis pub/sub  
 - Experienced in **load balancing**, **rate limiting**, and **zero-downtime deployment**
 
----
-
-### 📈 Career Highlights / Achievements 
-- ⚙️ Built and deployed **real-time video conferencing & chat systems** for multiple SaaS platforms  
-- 💰 Integrated **Stripe & PayPal payment systems** with custom wallet logic  
-- 🔐 Developed **JWT + OAuth2.0 authentication flows** across multiple microservices  
-- ☁️ Automated **CI/CD pipelines** and Dockerized backend services for production scaling  
-- 🧠 Architected **multi-tenant systems** supporting user roles, isolation, and audit logging  
-- ⚡ Improved API response times from **600ms → 180ms** with Redis & Nginx tuning  
+-
 
 ---
 
