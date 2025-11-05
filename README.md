@@ -79,6 +79,16 @@
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white"/>
 </p>
 
+### 🧰 Additional Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PM2-2C3E50?style=for-the-badge&logo=pm2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL%20+%20Prisma-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strapi%20CMS-2E3A59?style=for-the-badge&logo=strapi&logoColor=white"/>
+</p>
+
 ---
 
 ### 🧱 System Design & Architecture 
@@ -101,12 +111,4 @@
 
 ---
 
-### 🧰 Additional Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PM2-2C3E50?style=for-the-badge&logo=pm2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL%20+%20Prisma-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Strapi%20CMS-2E3A59?style=for-the-badge&logo=strapi&logoColor=white"/>
-</p>
+
