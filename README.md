@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working at **Spark Tech Agency** as a **Full-Stack Developer**
+- 🔭 Currently working at **Navantis Pharma Limited** as a **Software Engineer**
 - 🚀 Passionate about **real-time systems**, **modular architecture**, and **DevOps automation**
 - 🧠 Exploring deeper in **system design**, **scalability**, and **performance driven architecture**
 - 🔌 Skilled in seamless **third-party service integrations**, ensuring reliability and smooth interoperability
